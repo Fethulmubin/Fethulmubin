@@ -133,19 +133,6 @@ I enjoy designing systems that connect software engineering, AI, and electrical 
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fethulmubin&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fethulmubin&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
 
 ---
 
