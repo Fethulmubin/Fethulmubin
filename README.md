@@ -33,7 +33,7 @@ My interests sit at the intersection of:
 I enjoy designing systems that connect software engineering, AI, and electrical engineering into practical real-world applications.
 
 - 🌍 Based in Ethiopia
-- 🌐 **Portfolio:** [fethulmubin.tech](https://www.fethulmubin.tech/)
+- 🌐 **Portfolio:** [fethulmubin.tech](https://fethulmubin-ashy.vercel.app/)
 - 📫 **Email:** fetihul@gmail.com
 
 ---
